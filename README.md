@@ -6,12 +6,17 @@ This repository contains two Apex classes and a Lightning Web Component that dis
 The recording for this session is here: https://youtu.be/kxzoc7v9P0Y?si=glriuNkxuHSRNpU6
 
 For folks who want to build on this project, try forking and building:
+
 -test classes
+
 -functionality for the checkboxes in the lightning-datatable module
+
 -additional LWCs for additional functionality!
+
   -try building something similar for the Contact object!
+  
   -try building something record specific!
+  
   -try building a nested LWC!
 
-Salesforce LWC Documentation:
-https://developer.salesforce.com/docs
+Salesforce LWC Documentation: https://developer.salesforce.com/docs
