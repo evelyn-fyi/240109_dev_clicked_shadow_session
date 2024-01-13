@@ -13,10 +13,10 @@ For folks who want to build on this project, try forking and building:
 
 -additional LWCs for additional functionality!
 
-  -try building something similar for the Contact object!
+  --try building something similar for the Contact object!
   
-  -try building something record specific!
+  --try building something record specific!
   
-  -try building a nested LWC!
+  --try building a nested LWC!
 
 Salesforce LWC Documentation: https://developer.salesforce.com/docs
